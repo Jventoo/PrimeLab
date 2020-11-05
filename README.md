@@ -1,4 +1,4 @@
-# Assignment 4 - Jack Vento
+# Prime Sequence - Jack Vento
 ## The Program
 Sequence is a program meant to highlight Bit Vectors and efficiency of sieves in calculating primes. It then takes those primes and either prints out statistics about them (whether they are Mersenne, Fibonacci, and/or Lucas primes) or prints all palindromic primes in a variety of bases (bases 2, 9, 10, and 32 are on display presently but any base is possible).
 
@@ -13,4 +13,3 @@ Run the program using `./sequence <arguments>` after compiling. No arguments are
 * `make` and `make all` will compile the program to an executable named "*sequence*".
 * `make clean` removes all compiler-generated files.
 * `infer` is also an optional featured command, which the program passes.
-
